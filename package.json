@@ -1,16 +1,16 @@
 {
   "name": "sass-semantic-components",
-  "description": "Sass Flexbox",
-  "version": "1.0.0",
+  "description": "Sass Semantic Components",
+  "version": "1.0.1",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tachyon1337/sass-semantic-components.git"
+    "url": "https://github.com/ellipticaljs/sass-semantic-components.git"
   },
   "dependencies": {
-    "sass-functions": "git+https://github.com/tachyon1337/sass-functions.git",
-    "sass-component": "git+https://github.com/tachyon1337/sass-component.git"
+    "sass-functions": "git+https://github.com/ellipticaljs/sass-functions.git",
+    "sass-component": "git+https://github.com/ellipticaljs/sass-component.git"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
