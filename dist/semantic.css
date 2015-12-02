@@ -1,0 +1,195 @@
+*.error {
+  background: #f2dede !important;
+  color: #bc5251 !important;
+  border-color: #eed3d7 !important; }
+  *.error:before {
+    color: #bc5251 !important; }
+  *.error:after {
+    color: #bc5251 !important; }
+  *.error::-webkit-input-placeholder {
+    color: #bc5251 !important; }
+  *.error::-moz-placeholder {
+    color: #bc5251 !important; }
+  *.error::-o-placeholder {
+    color: #bc5251 !important; }
+  *.error:-ms-input-placeholder {
+    color: #bc5251 !important; }
+  *.error:hover {
+    background: #f2dede !important;
+    color: #bc5251 !important;
+    border-color: #eed3d7 !important; }
+    *.error:hover:before {
+      color: #bc5251 !important; }
+    *.error:hover:after {
+      color: #bc5251 !important; }
+    *.error:hover::-webkit-input-placeholder {
+      color: #bc5251 !important; }
+    *.error:hover::-moz-placeholder {
+      color: #bc5251 !important; }
+    *.error:hover::-o-placeholder {
+      color: #bc5251 !important; }
+    *.error:hover:-ms-input-placeholder {
+      color: #bc5251 !important; }
+  *.error:active, *.error.active {
+    background: #f2dede !important;
+    color: #bc5251 !important;
+    border-color: #eed3d7 !important; }
+    *.error:active:before, *.error.active:before {
+      color: #bc5251 !important; }
+    *.error:active:after, *.error.active:after {
+      color: #bc5251 !important; }
+    *.error:active::-webkit-input-placeholder, *.error.active::-webkit-input-placeholder {
+      color: #bc5251 !important; }
+    *.error:active::-moz-placeholder, *.error.active::-moz-placeholder {
+      color: #bc5251 !important; }
+    *.error:active::-o-placeholder, *.error.active::-o-placeholder {
+      color: #bc5251 !important; }
+    *.error:active:-ms-input-placeholder, *.error.active:-ms-input-placeholder {
+      color: #bc5251 !important; }
+
+*.info {
+  background: #d9edf7 !important;
+  color: #3a87ad !important;
+  border-color: #bce8f1 !important; }
+  *.info:before {
+    color: #3a87ad !important; }
+  *.info:after {
+    color: #3a87ad !important; }
+  *.info::-webkit-input-placeholder {
+    color: #3a87ad !important; }
+  *.info::-moz-placeholder {
+    color: #3a87ad !important; }
+  *.info::-o-placeholder {
+    color: #3a87ad !important; }
+  *.info:-ms-input-placeholder {
+    color: #3a87ad !important; }
+  *.info:hover {
+    background: #d9edf7 !important;
+    color: #3a87ad !important;
+    border-color: #bce8f1 !important; }
+    *.info:hover:before {
+      color: #3a87ad !important; }
+    *.info:hover:after {
+      color: #3a87ad !important; }
+    *.info:hover::-webkit-input-placeholder {
+      color: #3a87ad !important; }
+    *.info:hover::-moz-placeholder {
+      color: #3a87ad !important; }
+    *.info:hover::-o-placeholder {
+      color: #3a87ad !important; }
+    *.info:hover:-ms-input-placeholder {
+      color: #3a87ad !important; }
+  *.info:active, *.info.active {
+    background: #d9edf7 !important;
+    color: #3a87ad !important;
+    border-color: #bce8f1 !important; }
+    *.info:active:before, *.info.active:before {
+      color: #3a87ad !important; }
+    *.info:active:after, *.info.active:after {
+      color: #3a87ad !important; }
+    *.info:active::-webkit-input-placeholder, *.info.active::-webkit-input-placeholder {
+      color: #3a87ad !important; }
+    *.info:active::-moz-placeholder, *.info.active::-moz-placeholder {
+      color: #3a87ad !important; }
+    *.info:active::-o-placeholder, *.info.active::-o-placeholder {
+      color: #3a87ad !important; }
+    *.info:active:-ms-input-placeholder, *.info.active:-ms-input-placeholder {
+      color: #3a87ad !important; }
+
+*.warning {
+  background: #fcf8e3 !important;
+  color: #c09853 !important;
+  border-color: #fbeed5 !important; }
+  *.warning:before {
+    color: #c09853 !important; }
+  *.warning:after {
+    color: #c09853 !important; }
+  *.warning::-webkit-input-placeholder {
+    color: #c09853 !important; }
+  *.warning::-moz-placeholder {
+    color: #c09853 !important; }
+  *.warning::-o-placeholder {
+    color: #c09853 !important; }
+  *.warning:-ms-input-placeholder {
+    color: #c09853 !important; }
+  *.warning:hover {
+    background: #fcf8e3 !important;
+    color: #c09853 !important;
+    border-color: #fbeed5 !important; }
+    *.warning:hover:before {
+      color: #c09853 !important; }
+    *.warning:hover:after {
+      color: #c09853 !important; }
+    *.warning:hover::-webkit-input-placeholder {
+      color: #c09853 !important; }
+    *.warning:hover::-moz-placeholder {
+      color: #c09853 !important; }
+    *.warning:hover::-o-placeholder {
+      color: #c09853 !important; }
+    *.warning:hover:-ms-input-placeholder {
+      color: #c09853 !important; }
+  *.warning:active, *.warning.active {
+    background: #fcf8e3 !important;
+    color: #c09853 !important;
+    border-color: #fbeed5 !important; }
+    *.warning:active:before, *.warning.active:before {
+      color: #c09853 !important; }
+    *.warning:active:after, *.warning.active:after {
+      color: #c09853 !important; }
+    *.warning:active::-webkit-input-placeholder, *.warning.active::-webkit-input-placeholder {
+      color: #c09853 !important; }
+    *.warning:active::-moz-placeholder, *.warning.active::-moz-placeholder {
+      color: #c09853 !important; }
+    *.warning:active::-o-placeholder, *.warning.active::-o-placeholder {
+      color: #c09853 !important; }
+    *.warning:active:-ms-input-placeholder, *.warning.active:-ms-input-placeholder {
+      color: #c09853 !important; }
+
+*.success {
+  background: #dff0d8 !important;
+  color: #468847 !important;
+  border-color: #d6e9c6 !important; }
+  *.success:before {
+    color: #468847 !important; }
+  *.success:after {
+    color: #468847 !important; }
+  *.success::-webkit-input-placeholder {
+    color: #468847 !important; }
+  *.success::-moz-placeholder {
+    color: #468847 !important; }
+  *.success::-o-placeholder {
+    color: #468847 !important; }
+  *.success:-ms-input-placeholder {
+    color: #468847 !important; }
+  *.success:hover {
+    background: #dff0d8 !important;
+    color: #468847 !important;
+    border-color: #d6e9c6 !important; }
+    *.success:hover:before {
+      color: #468847 !important; }
+    *.success:hover:after {
+      color: #468847 !important; }
+    *.success:hover::-webkit-input-placeholder {
+      color: #468847 !important; }
+    *.success:hover::-moz-placeholder {
+      color: #468847 !important; }
+    *.success:hover::-o-placeholder {
+      color: #468847 !important; }
+    *.success:hover:-ms-input-placeholder {
+      color: #468847 !important; }
+  *.success:active, *.success.active {
+    background: #dff0d8 !important;
+    color: #468847 !important;
+    border-color: #d6e9c6 !important; }
+    *.success:active:before, *.success.active:before {
+      color: #468847 !important; }
+    *.success:active:after, *.success.active:after {
+      color: #468847 !important; }
+    *.success:active::-webkit-input-placeholder, *.success.active::-webkit-input-placeholder {
+      color: #468847 !important; }
+    *.success:active::-moz-placeholder, *.success.active::-moz-placeholder {
+      color: #468847 !important; }
+    *.success:active::-o-placeholder, *.success.active::-o-placeholder {
+      color: #468847 !important; }
+    *.success:active:-ms-input-placeholder, *.success.active:-ms-input-placeholder {
+      color: #468847 !important; }
