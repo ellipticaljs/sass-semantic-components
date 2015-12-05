@@ -67,6 +67,23 @@
   }
 }
 
+@mixin _semantic-label(){
+  *{
+    &.error-label{
+      color:map-nested-get($Semantic,error,font-color) !important;
+    }
+    &.info-label{
+      color:map-nested-get($Semantic,info,font-color) !important;
+    }
+    &.warning-label{
+      color:map-nested-get($Semantic,warning,font-color) !important;
+    }
+    &.success-label{
+      color:map-nested-get($Semantic,success,font-color) !important;
+    }
+  }
+}
+
 /// semantic sass component theme only
 /// @access public
 @mixin semantic-theme(){
@@ -78,6 +95,7 @@
 /// @access public
 @mixin semantic-components(){
   @include _semantic-theme();
+  @include _semantic-label();
   @include _semantic-component(error);
   @include _semantic-component(info);
   @include _semantic-component(warning);
