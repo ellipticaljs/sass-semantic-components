@@ -13,7 +13,10 @@
 *.error {
   background: #f2dede !important;
   color: #bc5251 !important;
-  border-color: #eed3d7 !important; }
+  border-color: #eed3d7 !important;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 15px; }
   *.error:before {
     color: #bc5251 !important; }
   *.error:after {
@@ -29,7 +32,10 @@
   *.error:hover {
     background: #f2dede !important;
     color: #bc5251 !important;
-    border-color: #eed3d7 !important; }
+    border-color: #eed3d7 !important;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 15px; }
     *.error:hover:before {
       color: #bc5251 !important; }
     *.error:hover:after {
@@ -45,7 +51,10 @@
   *.error:active, *.error.active {
     background: #f2dede !important;
     color: #bc5251 !important;
-    border-color: #eed3d7 !important; }
+    border-color: #eed3d7 !important;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 15px; }
     *.error:active:before, *.error.active:before {
       color: #bc5251 !important; }
     *.error:active:after, *.error.active:after {
@@ -62,7 +71,10 @@
 *.info {
   background: #d9edf7 !important;
   color: #3a87ad !important;
-  border-color: #bce8f1 !important; }
+  border-color: #bce8f1 !important;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 15px; }
   *.info:before {
     color: #3a87ad !important; }
   *.info:after {
@@ -78,7 +90,10 @@
   *.info:hover {
     background: #d9edf7 !important;
     color: #3a87ad !important;
-    border-color: #bce8f1 !important; }
+    border-color: #bce8f1 !important;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 15px; }
     *.info:hover:before {
       color: #3a87ad !important; }
     *.info:hover:after {
@@ -94,7 +109,10 @@
   *.info:active, *.info.active {
     background: #d9edf7 !important;
     color: #3a87ad !important;
-    border-color: #bce8f1 !important; }
+    border-color: #bce8f1 !important;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 15px; }
     *.info:active:before, *.info.active:before {
       color: #3a87ad !important; }
     *.info:active:after, *.info.active:after {
@@ -111,7 +129,10 @@
 *.warning {
   background: #fcf8e3 !important;
   color: #c09853 !important;
-  border-color: #fbeed5 !important; }
+  border-color: #faebcc !important;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 15px; }
   *.warning:before {
     color: #c09853 !important; }
   *.warning:after {
@@ -127,7 +148,10 @@
   *.warning:hover {
     background: #fcf8e3 !important;
     color: #c09853 !important;
-    border-color: #fbeed5 !important; }
+    border-color: #faebcc !important;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 15px; }
     *.warning:hover:before {
       color: #c09853 !important; }
     *.warning:hover:after {
@@ -143,7 +167,10 @@
   *.warning:active, *.warning.active {
     background: #fcf8e3 !important;
     color: #c09853 !important;
-    border-color: #fbeed5 !important; }
+    border-color: #faebcc !important;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 15px; }
     *.warning:active:before, *.warning.active:before {
       color: #c09853 !important; }
     *.warning:active:after, *.warning.active:after {
@@ -160,7 +187,10 @@
 *.success {
   background: #dff0d8 !important;
   color: #468847 !important;
-  border-color: #d6e9c6 !important; }
+  border-color: #d6e9c6 !important;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 15px; }
   *.success:before {
     color: #468847 !important; }
   *.success:after {
@@ -176,7 +206,10 @@
   *.success:hover {
     background: #dff0d8 !important;
     color: #468847 !important;
-    border-color: #d6e9c6 !important; }
+    border-color: #d6e9c6 !important;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 15px; }
     *.success:hover:before {
       color: #468847 !important; }
     *.success:hover:after {
@@ -192,7 +225,10 @@
   *.success:active, *.success.active {
     background: #dff0d8 !important;
     color: #468847 !important;
-    border-color: #d6e9c6 !important; }
+    border-color: #d6e9c6 !important;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 15px; }
     *.success:active:before, *.success.active:before {
       color: #468847 !important; }
     *.success:active:after, *.success.active:after {

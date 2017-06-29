@@ -41,6 +41,9 @@
   background:map-nested-get($Semantic,$state,background) !important;
   color:map-nested-get($Semantic,$state,font-color) !important;
   border-color:map-nested-get($Semantic,$state,border) !important;
+  border:1px solid;
+  border-radius:4px;
+  padding:15px;
   &:before{
     color:map-nested-get($Semantic,$state,font-color) !important;
   }
